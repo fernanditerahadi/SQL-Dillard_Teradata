@@ -14,3 +14,5 @@ features; (8) Translate data analysis questions into SQL queries that accommodat
 data sets.
 
 The data that was used in this MySQL Queries Vol. 3 was donated from a national United States department store chain, Dillard’s.
+
+September 2017
